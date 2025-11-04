@@ -1,7 +1,7 @@
 {
   "Name": "BobbingDisabler",
   "Author": "HeartoLazor",
-  "Version": "1.0.1",
+  "Version": "1.0.2",
   "Description": "HeartoLazor's utilitary mod for disabling the 'bobbing' effect that stardew engine introduces in movement animations.",
   "UniqueID": "HeartoLazor.BobbingDisabler",
   "EntryDll": "BobbingDisabler.dll",
